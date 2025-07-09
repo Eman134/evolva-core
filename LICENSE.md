@@ -20,4 +20,4 @@ If you are interested in using or licensing this project, please contact the aut
 
 Author: Kayke Emanoel
 
-Contact: kaykeeman@gmail.com
+Contact: [kaykeeman@gmail.com]
