@@ -36,7 +36,7 @@ Fornecer uma API RESTful segura, modular e escalável para autenticação, geren
 ## 📝 Licença
 
 > 📎 Este projeto é somente para fins de leitura e demonstração.  
-> Nenhum uso, cópia ou modificação é permitido sem autorização.
+> Nenhum uso, cópia ou modificação é permitido sem autorização.  
 > Veja o arquivo [`LICENSE.md`](./LICENSE.md) para mais detalhes.
 
 ---
@@ -44,4 +44,5 @@ Fornecer uma API RESTful segura, modular e escalável para autenticação, geren
 ## 📬 Contato
 
 Desenvolvido por **Kayke Emanoel**  
-[kaykeeman@gmail.com]
+📧 kaykeeman@gmail.com  
+🔗 GitHub: [@Eman134](https://github.com/Eman134)
