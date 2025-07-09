@@ -1,23 +1,19 @@
-# Evolva - Read-Only License
+# Evolva – Read-Only License
 
-Copyright (c) 2025 Kayke  
+Copyright (c) 2025 Kayke Emanoel  
 All rights reserved.
 
-This project is provided **for reference and showcase purposes only**.  
-You are allowed to **view and read the code**, but you are **NOT permitted** to:
+This project is provided for **showcase and educational purposes only**.  
+You are allowed to **view and read the source code**, but you are **NOT allowed** to:
 
-- Copy or redistribute any part of the code
+- Copy, redistribute, or sublicense any part of this code
 - Modify or create derivative works
-- Use it in commercial or non-commercial projects
-- Host or deploy this software
-- Incorporate any part into other projects
+- Use it in commercial or personal projects
+- Host, deploy, or incorporate it into other platforms
 
-**Unauthorized use is strictly prohibited.**
+**Unauthorized use of any part of this project is strictly prohibited.**
 
-If you are interested in using or licensing this project, please contact the author for explicit permission.
+For usage inquiries, licensing, or collaboration, please contact the author:
 
----
-
-Author: Kayke Emanoel
-
-Contact: [kaykeeman@gmail.com]
+📧 kaykeeman@gmail.com  
+🔗 GitHub: [@Eman134](https://github.com/Eman134)
