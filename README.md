@@ -23,13 +23,15 @@ Fornecer uma API RESTful segura, modular e escalável para autenticação, geren
 
 ---
 
-## 🧪 Tecnologias previstas
+## 🧪 Tecnologias
 
-- Java 17
+- Java 21
 - Spring Boot
 - PostgreSQL
 - Spring Security + JWT
 - JPA/Hibernate
+- Lombok
+- Validation
 
 ---
 
